@@ -1,48 +1,54 @@
-# transport-co2-emissions-analysis
-Transport CO₂ Emissions Analysis: Trends, Growth and Country Clustering
+##Transport CO₂ Emissions Analysis
 
-## Project Overview
-This project analyses global and country-level transportation-related CO₂ emissions to understand historical trends, compare emissions across countries, identify major contributors, and explore future emission patterns using machine learning.
+An exploratory data analysis and machine learning project investigating global transportation-related CO₂ emissions, country-level trends, and emission patterns.
 
-## Objectives
-- Analyse global and country-level transport CO₂ emission trends.
-- Identify major transport emission contributors.
-- Compare transport and non-transport emissions.
-- Examine transport emissions per capita and year-on-year growth.
-- Identify country groups based on emission characteristics.
-- Explore future transport emission patterns.
+Project Overview
 
-## Data Sources
-- Our World in Data (OWID) – Transport CO₂ emissions, total CO₂ emissions and population.
+This project analyses transportation CO₂ emissions across countries to identify major contributors, examine historical trends, compare emission patterns, and explore similarities between countries using machine learning.
 
-## Tools & Technologies
-Python | Google Colab | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Looker Studio
+Key Objectives
 
-## Methodology
-1. Data collection and preprocessing
-2. Exploratory data analysis
-3. Historical trend and country comparisons
-4. Feature engineering
-5. Future emission prediction
-6. Country clustering and interpretation
-7. Interactive dashboard development
+Analyse global transportation CO₂ emission trends.
+Identify countries with the highest transport emissions.
+Compare transport emissions across countries.
+Examine per-capita emissions and annual growth.
+Group countries using emission characteristics.
+Explore future emission trends.
 
-## Interactive Dashboard
-[link]
-The dashboard presents:
-- Executive overview of transportation emissions
-- Historical trends analysis
-- Country cluster analysis
-  
-## Research Questions
-This project investigates the following key questions:
-1. How have global transportation CO2 emissions changed over time?
-2. Which countries contribute the most to transportation emissions?
-3. How does transportation's share of national CO2 emissions vary across countries?
-4. Which countries have the highest transportation emissions per capita?
-5. Which countries show increasing or decreasing emission trends?
-6. Is there a relationship between total and transportation CO2 emissions per capita?
-7. How do transportation emissions compare with non-transport emissions?
-8. Can historical emission patterns help explore future transportation emissions?
+Data Source
 
-## Repository Contents
+Data is sourced from Our World in Data (OWID).
+Dataset: CO₂ and Greenhouse Gas Emissions Dataset
+The analysis uses transportation CO₂ emissions, total CO₂ emissions, and population data from the dataset.
+
+Tools & Technologies
+
+Python
+Pandas and NumPy
+Matplotlib and Seaborn
+Scikit-learn
+Jupyter Notebook
+Looker Studio
+
+Project Workflow
+
+Data collection and preprocessing
+Exploratory data analysis
+Emission trends and country comparisons
+Feature engineering
+Emission forecasting
+Country clustering
+Dashboard development
+
+Interactive Dashboard
+
+View Dashboard
+
+Key Research Questions
+
+How have global transportation CO₂ emissions changed over time?
+Which countries contribute the most to transport emissions?
+How does transport's share of national emissions vary?
+Which countries have the highest transport emissions per capita?
+Can countries be grouped based on their emission patterns?
+What can historical trends tell us about future emissions?
